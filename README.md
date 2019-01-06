@@ -3,7 +3,7 @@ thinkphp (>5.0) aliyun-oss 阿里云对象存储  腾讯云对象存储 支持�
 
 # 安装
 
-    composer require chichoyi/think-oss
+    composer require evan-li/think-oss
 
 # 配置
 
